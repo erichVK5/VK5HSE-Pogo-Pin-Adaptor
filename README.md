@@ -5,3 +5,5 @@ The design was created in pcb-rnd, the open source PCB editor ( repo.hu/projects
 The design is licenced under the TAPR open hardware licence.
 
 The design assumes 1.3mm diameter pogo pins are being used.
+
+![image](usb-asp-and-pogo-pin-fixture.jpg)
